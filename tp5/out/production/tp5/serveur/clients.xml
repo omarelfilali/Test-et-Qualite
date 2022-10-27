@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+                
+    
+    
+    <client>
+                                
+        
+        
+        <pseudo>omar</pseudo>
+                                
+        
+        
+        <mdp>123</mdp>
+                            
+    
+    
+    </client>
+             
+    
+    
+    <client>
+                                
+        
+        
+        <pseudo>omar2</pseudo>
+                                
+        
+        
+        <mdp>123</mdp>
+                            
+    
+    
+    </client>
+             
+    
+    
+    <client>
+                                
+        
+        
+        <pseudo>omar3</pseudo>
+                                
+        
+        
+        <mdp>1234</mdp>
+                            
+    
+    
+    </client>
+                
+    
+    
+    <client>
+                                
+        
+        
+        <pseudo>omar4</pseudo>
+                                 
+        
+        
+        <mdp>123</mdp>
+                            
+    
+    
+    </client>
+            
+    
+    
+    <client>
+                        
+        
+        <pseudo>ahmed</pseudo>
+                        
+        
+        <mdp>123</mdp>
+                    
+    
+    </client>
+            
+
+
+
+</clients>
